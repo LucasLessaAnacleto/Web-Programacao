@@ -15,12 +15,15 @@ main::after{
 }
 .informacoes{
     margin-left: 4%;
+    margin-bottom: 15vmax;
+    margin-top: 11vmax; 
+    min-height: 310px;
 }
 .conteudo{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    justify-content: space-evenly;
+    
 }
 .informacoes .logo{
     max-width: 350px;
@@ -34,14 +37,14 @@ main::after{
     line-height: 30px;
 }
 .botoes-carrossel{
-    display: flex;
-    justify-content: center;
+     display: flex;
+    justify-content: center; 
     gap: 20px;
 }
 .botoes-carrossel .botao{
     background-color: #ffffff;
-    width: 1.0vmax;
-    height: 1.0vmax;
+    width: 0.8vmax;
+    height: 0.8vmax;
     border-radius: 50%;
     border: 3px solid transparent ;
     cursor: pointer;
