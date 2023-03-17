@@ -1,2 +1,2 @@
 # The Last of Us
-Projetos com HTML, CSS, JavaScript, PHP
+Projeto com HTML, CSS, JavaScript, PHP
