@@ -1,0 +1,71 @@
+@media(max-width: 1600px){
+    .menu-lateral .icone {
+       width: 2.2vmax;
+    }
+    .botoes-carrossel .botao{
+         width: 0.9vmax;
+        height: 0.9vmax; 
+        border: 2,5px solid transparent ;
+    }
+}
+@media(max-width: 1400px){
+    .menu-lateral .icone {
+       width: 2.4vmax;
+    }
+    .botoes-carrossel .botao{
+         width: 1.05vmax;
+        height: 1.05vmax; 
+        border: 2,0px solid transparent ;
+    }
+    .informacoes{
+        margin-left: 4%;
+        margin-bottom: 15vmax;
+        margin-top: 11vmax; 
+        min-height: 310px;
+    }
+}
+@media(max-width: 1280px){
+    .menu-lateral .icone {
+       width: 2.6vmax;
+    }
+    .botoes-carrossel .botao{
+         width: 1.18vmax;
+        height: 1.18vmax; 
+        border: 1,7px solid transparent ;
+    }
+}
+@media(max-width: 1000px){
+    .menu-lateral .icone {
+       width: 2.9vmax;
+    }
+    .botoes-carrossel .botao{
+         width: 1.28vmax;
+        height: 1.28vmax; 
+        border: 1,2px solid transparent ;
+    }
+}
+@media(max-width: 800px){
+    .menu-lateral .icone {
+       width: 3.4vmax;
+    }
+    .botoes-carrossel .botao{
+         width: 1.42vmax;
+        height: 1.42vmax; 
+        border: 0,8px solid transparent ;
+    }
+}
+@media(max-width: 500px){
+    .informacoes .descricao{
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .informacoes .logo{
+        max-width: 250px;
+    }
+    .botoes-carrossel .botao{
+        width: 1.9vmax;
+       height: 1.9vmax; 
+       border: 0,7px solid transparent ;
+   }
+}
+
