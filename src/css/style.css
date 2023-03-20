@@ -1,4 +1,4 @@
-body{
+    body{
     font-family: 'Oswald', sans-serif;
     max-width: 1760px;
      margin: 0 auto; 
@@ -66,6 +66,10 @@ main::after{
 .menu-lateral .icone{
     width: 1.8vmax;
     filter: invert(1);
+}
+.icone.insta{
+    width: 2.3vmax;
+    transform: translate(-6%);
 }
 .menu-lateral .icone:hover{
     transform: scale(1.2);
